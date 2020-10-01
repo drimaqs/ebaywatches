@@ -595,11 +595,11 @@
           <div class="col-md-3 footer-block">
             <h6 class="footer-title ptb_20">Information</h6>
             <ul>
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Delivery Information</a></li>
+              <li><a href="about_us.php">About Us</a></li>
+              <li><a href="delivery.php">Delivery Information</a></li>
               <li><a href="#">Privacy Policy</a></li>
               <li><a href="#">Terms & Conditions</a></li>
-              <li><a href="contact.html">Contact Us</a></li>
+              <li><a href="contact_us.html">Contact Us</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-block">

@@ -2045,9 +2045,11 @@ blockquote {
     font-size: 0px;
     position: absolute;
     transition: 0.5s;
+    display: none;
 }
 .owl-nav>div:hover {
     border-color: #fa4251;
+    display: none;
 }
 .owl-item .client-avatar>img {
     border-radius: 50%;

@@ -71,61 +71,20 @@
       </div>
     </header>
     <!-- =====  HEADER END  ===== -->
-    <!-- =====  CONTAINER START  ===== -->
-    <div class="container mt_30">
-      <div class="row ">
-                <div class="col-sm-8 col-lg-9 mtb_20">
-          <!-- contact  -->
-          <div class="row">
-            <div class="col-md-4 col-xs-12 contact">
-              <div class="location mb_50">
-                <h5 class="capitalize mb_20"><strong>Our Location</strong></h5>
-                <div class="address">3578  West Side Avenue
-                  <br> Newark  New Jersey
-                  <br> NJ 07102  </div>
-                <div class="call mt_10"><i class="fa fa-phone" aria-hidden="true"></i>+201-298-6386</div>
-              </div>
-              <div class="Career mb_50">
-                <h5 class="capitalize mb_20"><strong>Whats it about</strong></h5>
-                <div class="address"> Looking to buy a watch ? Got your favourite brand ? We might have exactly what you need !  </div>
-                <div class="email mt_10"><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:careers@yourdomain.com" target="_top">contact@watchtime.com</a></div>
-              </div>
-              <div class="Hello mb_50">
-                <h5 class="capitalize mb_20"><strong>Say Hello</strong></h5>
-                <div class="address">Got some suggestions for us - put it in our suggestion box.</div>
-                <div class="email mt_10"><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@yourdomailname.com" target="_top">suggestion@watchtime.com</a></div>
-              </div>
-            </div>
+    
             <div class="col-md-8 col-xs-12 contact-form mb_50">
-              <!-- Contact FORM -->
-              <div id="contact_form">
-                <form id="contact_body" method="post" action="contact_me.php">
-                  <!--                                <label class="full-with-form" ><span>Name</span></label>
--->
-                  <input class="full-with-form " type="text" name="name" placeholder="Name" data-required="true" />
-                  <!--                <label class="full-with-form" ><span>Email Address</span></label>
--->
-                  <input class="full-with-form  mt_30" type="email" name="email" placeholder="Email Address" data-required="true" />
-                  <!--                <label class="full-with-form" ><span>Phone Number</span></label>
--->
-                  <input class="full-with-form  mt_30" type="text" name="phone1" placeholder="Phone Number" maxlength="15" data-required="true" />
-                  <!--                <label class="full-with-form" ><span>Subject</span></label>
--->
-                  <input class="full-with-form  mt_30" type="text" name="subject" placeholder="Subject" data-required="true">
-                  <!--                                <label class="full-with-form" ><span>Attachment</span></label>
--->
-                  <!--                                <label class="full-with-form" ><span>Message</span></label>
--->
-                  <textarea class="full-with-form  mt_30" name="message" placeholder="Message" data-required="true"></textarea>
-                  <button class="btn mt_30" type="submit">Send Message</button>
-                </form>
-                <div id="contact_results"></div>
-              </div>
-              <!-- END Contact FORM -->
+                <div class="about_content">
+                  
+                <h1> What is it all about ? </h1>
+                <p> Watches have been created decades ago and a lot of old watches are still available in the market today. There is also a reissue model that is inspired by vintage watches. They are watches that keep history. When you gather with friends, one of the signs that you are a watch enthusiast is that you love to tell the history of the watch you are wearing to your friends around. </p>
+                <p> When you meet new people, your eyes immediately go to the part of their wrists to see what kind of timepieces they are wearing? If so, it is a sign that you are a watch enthusiast. Just like sneakers lovers who judge people by their shoes or nerds who judge people by the books they read. </p>
+
+                </div>
+
             </div>
           </div>
-           <!-- map  -->
-           <div class="row">
+          <!-- map  -->
+          <div class="row">
             <div class="col-xs-12 map mb_80">
               
             </div>
